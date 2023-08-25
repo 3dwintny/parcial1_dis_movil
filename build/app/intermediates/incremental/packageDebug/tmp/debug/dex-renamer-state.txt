@@ -1,0 +1,4 @@
+#Fri Aug 25 14:22:27 CST 2023
+base.0=/home/edwin/PrograDM/_parcial/parcial/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

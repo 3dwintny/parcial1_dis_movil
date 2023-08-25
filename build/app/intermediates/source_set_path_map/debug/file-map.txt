@@ -1,0 +1,12 @@
+com.example.parcial.app-jetified-window-1.0.0-beta04-0 /home/edwin/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.parcial.app-jetified-annotation-experimental-1.1.0-1 /home/edwin/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.parcial.app-core-1.6.0-2 /home/edwin/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.example.parcial.app-jetified-window-java-1.0.0-beta04-3 /home/edwin/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.parcial.app-debug-4 /home/edwin/PrograDM/_parcial/parcial/android/app/src/debug/res
+com.example.parcial.app-main-5 /home/edwin/PrograDM/_parcial/parcial/android/app/src/main/res
+com.example.parcial.app-pngs-6 /home/edwin/PrograDM/_parcial/parcial/build/app/generated/res/pngs/debug
+com.example.parcial.app-resValues-7 /home/edwin/PrograDM/_parcial/parcial/build/app/generated/res/resValues/debug
+com.example.parcial.app-rs-8 /home/edwin/PrograDM/_parcial/parcial/build/app/generated/res/rs/debug
+com.example.parcial.app-mergeDebugResources-9 /home/edwin/PrograDM/_parcial/parcial/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.parcial.app-mergeDebugResources-10 /home/edwin/PrograDM/_parcial/parcial/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.parcial.app-merged_res-11 /home/edwin/PrograDM/_parcial/parcial/build/app/intermediates/merged_res/debug
